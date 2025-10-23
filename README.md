@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sg-techdev
 - 👀 I’m interested in ... Math, Science, Philosophy, Ethics, Psychology, Health Science
-- 🌱 I’m currently learning ... FoC, OOP, Calc I
+- 🌱 I’m currently learning ... OOP, Calc I
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: SG.Tech.Dev@OutLook.Com
 - 😄 Pronouns: He/Him/His
